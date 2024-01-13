@@ -1,5 +1,5 @@
 
-![god_empire_banner](https://files.shapes.inc/c16d5120.png)
+![god_empire_banner](https://files.shapes.inc/8ed33936.png)
 
 
 # The God Empire Organization
