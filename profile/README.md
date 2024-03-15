@@ -1,5 +1,5 @@
 
-![god_empire_banner](https://github.com/The-God-Empire/.github/blob/main/profile/organization.png)
+![god_empire_banner](https://github.com/The-God-Empire/.github/blob/main/profile/a9cbfac5.png)
 
 
 # The God Empire Organization
