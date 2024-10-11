@@ -11,7 +11,7 @@ The God Empire Organization, a sanctuary of innovation where code becomes script
 
  - The God Empire Community
  - Self Made Public Codes
- - [All Source Codes List](https://thegodempire2.web.app/)
+ - [All Source Codes List](https://unavailable/)
 
 
 ## Feedback
@@ -45,7 +45,7 @@ Our unique blend of community engagement, educational support, and a focus on bo
 ## Teams
 
 - [@TheGodVishnu21](https://github.com/TheGodVishnu21)
-- [@Rugved](https://github.com/rugveddanej)
+- [@himangshu](https://github.com/0xhimangshu)
 
 
 ## License
